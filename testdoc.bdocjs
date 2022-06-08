@@ -1,0 +1,1 @@
+{"annotation_sets": {"": {"name": "", "annotations": [{"type": "Document", "start": 0, "end": 33, "id": 0, "features": {}}], "next_annid": 1}}, "text": "This is the text of the document.", "features": {"purpose": "simple illustration of gatenlp basics"}, "offset_type": "p", "name": ""}
